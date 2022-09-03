@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **shohailparwej@gmail.com**
 
-- ⚡ Fun fact **I think I will be finished .**
 
 
 <p align="left">
