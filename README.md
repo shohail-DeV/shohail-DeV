@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Projects . <br><br>🌱 I’m currently learning Next.js .<br><br>💬 Ask me about Web Development and Java .<br><br>⚡ Sleep to Code , not Code to Sleep !<br><br>
+🔭 I’m currently working on React and Firebase Projects . <br><br>🌱 I’m currently learning Three.js .<br><br>💬 Ask me about Web Development and Java .<br><br>⚡ Sleep to Code , not Code to Sleep !<br><br>
 
 
 ## 🌐 Socials:
