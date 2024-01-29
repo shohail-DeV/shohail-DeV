@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React and Firebase Projects . <br><br>🌱 I’m currently learning Three.js .<br><br>💬 Ask me about Web Development and Java .<br><br>⚡ Sleep to Code , not Code to Sleep !<br><br>
+🔭 I’m currently working on Data Analytics Projects . <br><br>🌱 I’m currently learning Python .<br><br>💬 Ask me about AI/ML and Python .<br><br>⚡ Sleep to Code , not Code to Sleep !<br><br>
 
 
 ## 🌐 Socials:
