@@ -2,7 +2,7 @@
 🔭 I’m currently working on AI/ML Projects . <br><br>🌱 I’m currently learning Python .<br><br>💬 Ask me about Python & Javascript.<br><br>⚡ Sleep to Code , not Code to Sleep !<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_shohail_009) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shohail-parwej/) 
 
 
