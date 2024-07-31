@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML Projects . <br><br>🌱 I’m currently learning DevOps .<br><br>💬 Ask me about Python & Javascript.<br><br>⚡ Sleep to Code , not Code to Sleep !<br><br>
+🔭 I’m currently working on AI/ML Projects . <br><br>🌱 I’m currently learning DevOps .<br><br>💬 Ask me about Python & Javascript.<br><br>⚡ Trust  the Process !<br><br>
 
 
 ## 🌐 Connect:
